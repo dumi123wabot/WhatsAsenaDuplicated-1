@@ -16,7 +16,7 @@ if (Config.WORKTYPE ==  private ) {
 
         var ttinullimage = await axios.get(`https://api.xteam.xyz/api/logobp?apikey=Db2251ba8836d521&text=${encodeURIComponent(match[1])}`, { responseType:  arraybuffer  })
 
-        await message.sendMessage(Buffer.from(ttinullimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: Config.MADE BY D-GANG})
+        await message.sendMessage(Buffer.from(ttinullimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption:MADE BY D-GANG})
 
     }));
 }
@@ -29,7 +29,7 @@ else if (Config.WORKTYPE ==  public ) {
 
         var ttinullimage = await axios.get(`https://api.xteam.xyz/api/logobp?apikey=Db2251ba8836d521&text=${encodeURIComponent(match[1])}`, { responseType:  arraybuffer  })
 
-        await message.sendMessage(Buffer.from(ttinullimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: Config.MADE BY D-GANG})
+        await message.sendMessage(Buffer.from(ttinullimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption:MADE BY D-GANG})
 
     }));
     
