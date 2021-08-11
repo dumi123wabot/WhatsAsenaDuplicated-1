@@ -4,7 +4,7 @@ const chalk = require('chalk');
 
 if (fs.existsSync('./language/' + Config.LANG + '.json')) {
     console.log(
-        chalk.green.bold('සිංහල භාෂාව සැකසෙමින් පවතී...')
+        chalk.green.bold('Loading ' + Config.LANG + ' language...')
     );
 
     var json = JSON.parse(fs.readFileSync('./language/' + Config.LANG + '.json'));
@@ -19,7 +19,6 @@ if (fs.existsSync('./language/' + Config.LANG + '.json')) {
 function getString(file) {
     return json['STRINGS'][file];
 }
-
 
 module.exports = {
     language: json,
