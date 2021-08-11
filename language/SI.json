@@ -1,8 +1,8 @@
 {
     "__ASENAJSON__": true,
     "LANGUAGE": "Sinhala",
-    "LANGCODE": "sinhala",
-    "AUTHOR": "BlackAmda",
+    "LANGCODE": "si",
+    "AUTHOR": "dumindu",
     "STRINGS": {
         "_amdi": {
             "COMMAND": "විධානය",
