@@ -2,7 +2,7 @@
     "__ASENAJSON__": true,
     "LANGUAGE": "English",
     "LANGCODE": "en",
-    "AUTHOR": "AsenaDev",
+    "AUTHOR": "DUMINDU",
     "STRINGS": {
         "_asena": {
             "COMMAND": "Command",
@@ -128,8 +128,8 @@
         },
         "memes": {
             "MEMES_DESC": "memes the photo you replied to.",
-            "NEED_REPLY": "*Reply to a photo!*",
-            "DOWNLOADING": "```Downloading media & making meme...```"
+            "NEED_REPLY": "*youm must Reply to a photo!*",
+            "DOWNLOADING": "```D-GANG Downloading media & making meme...```"
         },
         "ocr": {
             "OCR_DESC": "Reads the text on the photo you have replied.",
@@ -140,7 +140,7 @@
         },
         "profile": {
             "KICKME_DESC": "It kicks you from the group you are using it in.",
-            "KICKME": "```Bye bye! I am going 🤠```",
+            "KICKME": "```Bye bye! I am going see you later 🤠```",
             "PP_DESC": "Makes the profile photo what photo you reply.",
             "NEED_PHOTO": "*Give me a photo!*",
             "PPING": "```Setting profile photo...```",
@@ -157,13 +157,13 @@
         },
         "removebg": {
             "REMOVEBG_DESC": "Removes the background of the photos.",
-            "NEED_PHOTO": "*Give me a photo!*",
+            "NEED_PHOTO": "*D-GANG's want a photo!*",
             "NO_API_KEY": "*You don't have an API key!*\nYou can get it here: remove.bg.",
             "RBGING": "```Removing background...```"
         },
         "scrapers": {
             "TRANSLATE_DESC": "It translates with Google Translate. You must reply any message.",
-            "TRANSLATE_USAGE": ".trt ml en (From Malayalam to English)",
+            "TRANSLATE_USAGE": ".trt si en (From sinhala to English)",
             "NEED_REPLY": "```Please reply to any message!```",
             "LANG": "Language",
             "FROM": "Translated Language",
@@ -176,13 +176,13 @@
             "TTS_ERROR": "```Error, Speech example of your sentence couldn't be made!```",
             "SONG_DESC": "Uploads the song you wrote.",
             "NEED_TEXT_SONG": "*Please write a song!*\n*Example:* ```.song eminem - rap god```",
-            "NO_RESULT": "*I could not find anything :(*",
-            "DOWNLOADING_SONG": "```Downloading your song...```",
-            "UPLOADING_SONG": "```Uploading your song...```",
+            "NO_RESULT": "*D-GANG could not find anything :(*",
+            "DOWNLOADING_SONG": "```D-GANG Downloading your song...```",
+            "UPLOADING_SONG": "```D-GANG Uploading your song...```",
             "VIDEO_DESC": "Downloads video from YouTube.",
             "NEED_VIDEO": "*Please write a video link!*\n*Example:* ```.video https://www.youtube.com/watch?v=nAFlVm5qeBc```",
-            "DOWNLOADING_VIDEO": "```Downloading your video...```",
-            "UPLOADING_VIDEO": "```Uploading your video...```",
+            "DOWNLOADING_VIDEO": "```D-GANG searching your video...```",
+            "UPLOADING_VIDEO": "```D-GANG IS Uploading your video...```",
             "YT_DESC": "It searchs on YouTube.",
             "NEED_WORDS": "```Please write a few words!```",
             "GETTING_VIDEOS": "```I'm bringing videos...```",
@@ -194,8 +194,8 @@
         },
         "sticker": {
             "STICKER_DESC": "It converts your replied photo or video to sticker.",
-            "NEED_REPLY": "*Reply to a photo or video!*",
-            "DOWNLOADING": "```Ippo Sheriakkitheram...```"
+            "NEED_REPLY": "*plz Reply to a photo or video!*",
+            "DOWNLOADING": "```downloaading media and converting sticker...```"
         },
         "system_stats": {
             "ALIVE_DESC": "Does bot work?",
@@ -207,8 +207,8 @@
         },
         "updater": {
             "UPDATER_DESC": "Checks the update.",
-            "UPDATE": "*Your bot is completely up-to-date!*",
-            "NEW_UPDATE": "*New update available for Bot!*\n\nChanges:\n```",
+            "UPDATE": "*D-GANG bot is completely up-to-date!*",
+            "NEW_UPDATE": "*New update available for D-GANG!*\n\nChanges:\n```",
             "UPDATE_NOW_DESC": "It makes updates.",
             "UPDATING": "_Updating..._",
             "INVALID_HEROKU": "*❌ Your Heroku information is wrong!*",
@@ -298,8 +298,8 @@
             "SPEEDTEST_DESC": "Measures Download and Upload speed.",
             "SPEEDTESTING": "```Running speed test...```",
             "SPEEDTEST_RESULT": "*Speed ​​test completed!*",
-            "UPLOAD": "Upload",
-            "DOWNLOAD": "Download",
+            "UPLOAD": "Uploading...",
+            "DOWNLOAD": "Downloading.,..",
              "PING_DESC": "Measures your ping.",
             "URL": "Shorten the long link."
         },
