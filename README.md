@@ -7,9 +7,8 @@
 
 <p align="center">
     Project of D-GANG - Makes it easy and fun to use Whatsapp. Also  SRILANKA userbot for Whatsapp.
-    <br>
-
-        <a href="https://chat.whatsapp.com/LvlMjqqI1563Gaeu2ReTOh">New Support Group</a> |
+    <b
+       <a href="https://chat.whatsapp.com/LvlMjqqI1563Gaeu2ReTOh">New Support Group</a> |
         <a href="https://t.me/unofficialplugin">All Groups & channels </a> |
     <br>
 </p>
