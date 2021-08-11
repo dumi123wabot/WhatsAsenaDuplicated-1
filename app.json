@@ -1,11 +1,11 @@
 {
-    "name": "D-GANG",
-    "description": "BEST WHATSAPP USER BOT IN SRILANKA",
-    "logo": "https://telegra.ph/file/43e16e51660004dee32d0.jpg",
-    "keywords": ["whatsapp", "userbot", "bot", "api", "ai"],
-    "repository": "",
-    "website":   "lasiya.ml",
-    "success_url": "https://t.me/danumabots",
+"name": "Dgang",
+    "description": "d-gang project - Makes it easy and fun to use Whatsapp. World’s first UserBot made for WhatsApp.",
+    "logo": "https://i.ibb.co/CBB2S5V/Whats-App-Image-2021-08-10-at-19-59-44.jpg",
+    "keywords": ["whatsapp", "userbot", "bot", "api", "ai", "D-gang"],
+    "repository": "https://github.com/phaticusthiccy/WhatsAsenaDuplicated",
+    "website":   "https://t.me/phaticusthiccy",
+    "success_url": "https://t.me/AsenaSupport",
     "stack": "container",
     "env": {
         "ASENA_SESSION": {
